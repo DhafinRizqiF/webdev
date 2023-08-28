@@ -1,0 +1,137 @@
+.bg-light-gray {
+    background-color: #f2f3f4;
+}
+
+.pName{
+    font-size: 1.5rem;
+    color: #091836;
+}
+
+.pDesc{
+    color: #778298;
+    font-family: sans-serif;
+}
+.logo{ 
+    margin-left: 115px;  
+    margin-right: 210px;
+    padding-top: 8px;
+    margin-bottom: 8px;  
+}
+
+.nav-text{
+    padding-left: 480px;
+}
+
+.pad-top{
+    padding-top: 40px;
+}
+
+.paragrafText{
+    font-family:sans-serif;
+    color: #778298;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.Timgcontainer{
+    font-size: 1.125rem;
+    color: #778298;
+    text-align: center;
+    margin-bottom: 2rem;
+    max-width: 351px;
+    max-height: 108;
+}
+
+.textMeetYourInstructor{
+    font-size: 40px;
+    font-family: sans-serif;
+    margin-bottom: 1rem;
+    font-weight: 600;
+    text-align: center;
+    color: #091836;
+}
+
+.imgTitle{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    font-weight: 400;
+    font-size: 1.65rem;
+    text-align: center;
+}
+
+.containerIsi{
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 73.75rem;
+    padding-right: 2rem;
+    padding-left: 2rem;
+    padding-top: 10px;
+    padding-bottom: 2rem;
+}
+
+.inputBox{
+    width: 390px;
+    height: 45px;
+    border-radius: 3px;
+    border: 2px solid white ;
+    border-style: outset;
+}
+
+.footerBox{
+    width: 300px;
+    height: 45px;
+    border-radius: 3px;
+    border: 2px solid white ;
+    border-style: outset;
+}
+
+.footer{
+    height: 72px;
+    color: #778298;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    
+}
+
+.footer-link{
+    display: flex;
+    justify-content: right;
+}
+
+.button{
+    background-color: #65d777;
+    color:white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.font-color-gray{
+    color: #949eb2;
+    font-size: 18px;
+    font-family: sans-serif;
+    margin-left: 30px;
+}
+
+.red-header{
+    color:#de3f1c;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 60px;
+}
+
+.header-title{
+    font-size: 60px;
+    color: #38404f;
+    font-family: sans-serif;
+    padding-top: -10px;
+}
+
+.bg-flex{
+    background-color: lightgray;
+    margin: 0%;
+}
