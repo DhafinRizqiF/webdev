@@ -1,0 +1,44 @@
+[
+    {
+      "name": "Baju",
+      "price": 25000,
+      "image": "assets/baju.jpeg"
+    },
+    {
+      "name": "Celana",
+      "price": 30000,
+      "image": "assets/celana.jpg"
+    },
+    {
+      "name": "Sandal",
+      "price": 30000,
+      "image": "assets/sendal.jpeg"
+    },
+    {
+        "name": "Tas",
+        "price": 50000,
+        "image": "assets/tas.jpeg"
+    },
+    {
+        "name": "Kacamata",
+        "price": 55000,
+        "image": "assets/kacamata.jpeg"
+    },
+    {
+        "name": "Topi",
+        "price": 45000,
+        "image": "assets/topi.jpeg"
+    },
+    {
+        "name": "Sepatu",
+        "price": 50000,
+        "image": "assets/sepatu.jpeg"
+    },
+    {
+        "name": "Kaos Kaki",
+        "price": 25000 ,
+        "image": "assets/kaoskaki.jpeg"
+    }
+
+  ]
+  
